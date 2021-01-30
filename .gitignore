@@ -2,3 +2,4 @@ env
 .vscode
 temp
 .history
+fastapi_websocket/__pycache__/
